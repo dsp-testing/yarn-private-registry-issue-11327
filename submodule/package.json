@@ -1,0 +1,9 @@
+// File /submodule/package.json
+{
+  "name": "submodule",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "lodash": "4.17.1"
+  }
+}
