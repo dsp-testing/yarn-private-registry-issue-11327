@@ -3,6 +3,6 @@
   "private": true,
   "type": "module",
   "workspaces": [
-    "submodule",
+    "submodule"
   ]
 }
