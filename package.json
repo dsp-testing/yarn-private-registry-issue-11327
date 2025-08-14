@@ -1,7 +1,9 @@
 {
   "name": "yarn-private-registry-issue-11327",
+  "version": "1.0.0", 
   "private": true,
   "type": "module",
+  "packageManager": "yarn@4.9.2",
   "workspaces": [
     "submodule"
   ]
