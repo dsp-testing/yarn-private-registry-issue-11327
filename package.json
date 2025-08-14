@@ -1,6 +1,5 @@
-// File /package.json
 {
-  "name": "@repro/main",
+  "name": "yarn-private-registry-issue-11327",
   "private": true,
   "type": "module",
   "workspaces": [
