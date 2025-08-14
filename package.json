@@ -1,0 +1,9 @@
+// File /package.json
+{
+  "name": "@repro/main",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "submodule",
+  ]
+}
